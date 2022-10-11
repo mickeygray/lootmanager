@@ -1,0 +1,1 @@
+export const GENERATE_LOOT = "GENERATE_LOOT";
